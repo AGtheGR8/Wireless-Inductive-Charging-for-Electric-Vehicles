@@ -1,0 +1,2 @@
+# Wireless-Inductive-Charging-for-Electric-Vehicles
+The Dynamic Wireless Power Transmission (DWPT) system is an innovative solution for Electric Vehicle (EV) charging infrastructure. The primary goal is to eliminate the need for physical connections between vehicles and charging stations. This advancement aims to enhance the convenience, efficiency, and time-saving aspects of EV charging operations.
